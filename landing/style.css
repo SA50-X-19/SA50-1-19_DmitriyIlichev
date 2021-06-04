@@ -130,3 +130,8 @@
     background-color:tomato;
     transition-duration: 500ms;
 }
+
+.about:hover{
+    background-color: black;
+    transition-duration: 350ms;
+}
