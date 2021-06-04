@@ -125,3 +125,8 @@
     background-color: #BA55D3;
     transition-duration: 500ms;
 }
+
+.sign__up:hover{
+    background-color:tomato;
+    transition-duration: 500ms;
+}
