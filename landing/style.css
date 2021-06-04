@@ -120,3 +120,8 @@
     align-items: center;
     justify-content: center;
 }
+
+.sign__in:hover{
+    background-color: #BA55D3;
+    transition-duration: 500ms;
+}
